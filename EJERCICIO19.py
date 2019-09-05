@@ -23,4 +23,4 @@ for l in poem:
     if sc==3:
         p+=' '
         sc=0
-print(p)        
+print('Poem translated: \n',p)        
